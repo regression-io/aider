@@ -1,5 +1,7 @@
 ---
+parent: More info
 nav_order: 900
+description: Aider supports pretty much all popular coding languages.
 ---
 # Supported languages
 
